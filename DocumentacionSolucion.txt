@@ -1,0 +1,1 @@
+Solucion de errores aplicada en la rama bugfix
